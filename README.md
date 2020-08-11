@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there, I'm Tobias 👋
 
 ## I'm a Husband, Father, IT Automator!
