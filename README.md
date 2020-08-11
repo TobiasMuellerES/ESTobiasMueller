@@ -12,24 +12,20 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Powershell" width="26px" src="https://github.com/github/explore/blob/master/topics/powershell/powershell.png"/>
-<img align="left" alt="Terraform" width="26px" src="https://github.com/github/explore/blob/master/topics/terraform/terraform.png"/>
-<img align="left" alt="Vagrant" width="26px" src="https://github.com/github/explore/blob/master/topics/vagrant/vagrant.png"/>
-<img align="left" alt="YAML" width="26px" src="https://github.com/github/explore/blob/master/topics/yaml/yaml.png"/>
-<img align="left" alt="Kubernetes" width="26px" src="https://github.com/github/explore/blob/master/topics/kubernetes/kubernetes.png"/>
-<img align="left" alt="Ansible" width="26px" src="https://github.com/github/explore/blob/master/topics/ansible/ansible.png"/>
-<img align="left" alt="Visual Basic" width="26px" src="https://github.com/github/explore/blob/master/topics/visual-basic/visual-basic.png"/>
-<img align="left" alt="CSharp" width="26px" src="https://github.com/github/explore/blob/master/topics/csharp/csharp.png"/>
-<img align="left" alt="DotNet" width="26px" src="https://github.com/github/explore/blob/master/topics/dotnet/dotnet.png"/>
-<img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Windows" width="26px" src="https://github.com/github/explore/blob/master/topics/windows/windows.png" />
-<img align="left" alt="Home-Assistant" width="26px" src="https://github.com/github/explore/blob/master/topics/home-assistant/home-assistant.png" />
-<img align="left" alt="Jupyter-Notebook" width="26px" src="https://github.com/github/explore/blob/master/topics/jupyter-notebook/jupyter-notebook.png" />
+<img align="left" alt="Visual Studio Code" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Powershell" width="22px" src="https://github.com/github/explore/blob/master/topics/powershell/powershell.png"/>
+<img align="left" alt="Terraform" width="22px" src="https://github.com/github/explore/blob/master/topics/terraform/terraform.png"/>
+<img align="left" alt="Vagrant" width="22px" src="https://github.com/github/explore/blob/master/topics/vagrant/vagrant.png"/>
+<img align="left" alt="YAML" width="22px" src="https://github.com/github/explore/blob/master/topics/yaml/yaml.png"/>
+<img align="left" alt="Kubernetes" width="22px" src="https://github.com/github/explore/blob/master/topics/kubernetes/kubernetes.png"/>
+<img align="left" alt="Ansible" width="22px" src="https://github.com/github/explore/blob/master/topics/ansible/ansible.png"/>
+<img align="left" alt="Visual Basic" width="22px" src="https://github.com/github/explore/blob/master/topics/visual-basic/visual-basic.png"/>
+<img align="left" alt="CSharp" width="22px" src="https://github.com/github/explore/blob/master/topics/csharp/csharp.png"/>
+<img align="left" alt="DotNet" width="22px" src="https://github.com/github/explore/blob/master/topics/dotnet/dotnet.png"/>
+<img align="left" alt="SQL" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="Git" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Windows" width="22px" src="https://github.com/github/explore/blob/master/topics/windows/windows.png" />
+<img align="left" alt="Home-Assistant" width="22px" src="https://github.com/github/explore/blob/master/topics/home-assistant/home-assistant.png" />
+<img align="left" alt="Jupyter-Notebook" width="22px" src="https://github.com/github/explore/blob/master/topics/jupyter-notebook/jupyter-notebook.png" />
