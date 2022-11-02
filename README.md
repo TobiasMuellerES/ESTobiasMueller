@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a Cloud Automation Stack with Terraform, Ansible and Kubernetes
 - 🌱 I’m currently learning everything about Kubernetes, Rancher and Terraform
 - 👯 I’m looking to collaborate on open source software in the kubernetes environment
-- 💬 Ask me about powershell
+- 💬 Ask me about kubernetes, terraform, ansible or powershell
 - ⚡ Fun fact: I like video games like Anno 1800 or No Man's Sky
 
 <br />
